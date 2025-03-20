@@ -1,0 +1,60 @@
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+From: sender@example.com
+To: wells.fargo@example.com
+Subject: Facility Lender Share Adjustment
+Date: Tue, 5 Feb 2025 08:55:14 -0500
+
+Citizens Bank, N.A.
+Loan Agency Services
+
+Date: 05-Feb-2025
+To: WELLS FARGO BANK, NATIONAL ASSOCIATION
+ATTN: RAMAKRISHNA KUNCHALA
+Fax: 877-606-9426
+Re: ABTB MID-ATLANTIC LLC $171.3MM 11-4-2022, TERM LOAN A-2
+
+Description: Facility Lender Share Adjustment
+
+BORROWER: ABTB MID-ATLANTIC LLC
+DEAL NAME: ABTB MID-ATLANTIC LLC $171.3MM 11-4-2022
+
+Effective 04-Feb-2025, the Lender Shares of facility TERM LOAN A-2 have been adjusted.
+Your share of the commitment was USD $5,518,249.19. It has been Increased to USD $5,542,963.55.
+
+For: WELLS FARGO BANK, NA
+
+Reference: ABTB MID-ATLANTIC LLC $171.3MM 11-4-2022,
+If you have any questions, please call the undersigned.
+
+************************ COMMENT ************************
+PLEASE FUND YOUR SHARE OF $24,714.36
+
+Bank Name: Citizens Bank NA
+ABA # 011500120
+Account #: 0026693011
+Account Name: LIQ CLO Operating Account
+Ref: ABTB Mid-Atlantic LLC
+
+*********************************************************
+
+Regards,
+SCOTT WALLACE
+Telephone #:
+Fax #:
+
+Citizens Commercial Banking is a brand name of Citizens Bank, N.A. Member FDIC
+
+--boundary123
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="document.pdf"
+
+JVBERi0xLjQKJVNhbXBsZSBQREYgQ29udGVudAoxIDAgb2JqCjw8Pj4KZW5kb2JqCnhyZWYKMCAxCjAwMDAwMDAwMDAgNjU1MzUgZgp0cmFpbGVyCjw8Pj4Kc3RhcnR4cmVmCiUlRU9G
+
+--boundary123--
